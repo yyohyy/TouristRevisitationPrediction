@@ -29,21 +29,21 @@ This repository contains the code and resources for predicting the probability o
     
 3. Create and activate a virtual environment (optional but recommended):
 
-   ``bash
+    ```bash
     python -m venv venv
     ```
     
- -On Windows
-    
-    ```bash
-    venv\Scripts\activate
-    ```
-    
--On macOS/Linux
-
-    ```bash
-    venv\Scripts\activate
-    ```
+     On Windows:
+       
+       ```bash
+       venv\Scripts\activate
+       ```
+       
+     On macOS/Linux:
+   
+       ```bash
+       venv\Scripts\activate
+       ```
     
 4. Install the required dependencies:
    
