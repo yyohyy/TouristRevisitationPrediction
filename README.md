@@ -39,7 +39,7 @@ This repository contains the code and resources for predicting the probability o
       
      On macOS/Linux:
    
-       venv\Scripts\activate
+       source venv/bin/activate
        
     
 4. Install the required dependencies:
