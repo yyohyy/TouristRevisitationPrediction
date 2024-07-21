@@ -67,7 +67,7 @@ This repository contains the code and resources for predicting the probability o
    ```bash
    jupyter notebook
    ```
-   
+2. Navigate to notebook 'Tourist_Revisitation_Predictive_Modeling.ipynb' in the main project folder.   
 3. Modify the dataset path if using custom dataset.
 4. Run all the cells in the notebook.
 5. The trained model will be saved in the 'model' folder.   
