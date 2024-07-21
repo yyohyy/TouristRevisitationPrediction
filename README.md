@@ -34,16 +34,13 @@ This repository contains the code and resources for predicting the probability o
     ```
     
      On Windows:
-       
-       ```bash
+             
        venv\Scripts\activate
-       ```
-       
+      
      On macOS/Linux:
    
-       ```bash
        venv\Scripts\activate
-       ```
+       
     
 4. Install the required dependencies:
    
